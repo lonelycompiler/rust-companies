@@ -37,6 +37,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Libra](https://libra.org)
   ([GitHub](https://github.com/libra/libra)) - A global cryptocurrency built by Facebook.
 * [MaidSafe](http://www.maidsafe.net) - Building a decentralised data and communications network.
+* [Kraken](https://www.kraken.com/)([1](https://blog.kraken.com/post/7964/oxidizing-kraken-improving-kraken-infrastructure-using-rust/) - Kraken’s Core Backend team has been using Rust to modernize services originally written in PHP, building new products, and supporting the increase in cryptocurrency trading activity.
 * [Parity](https://www.parity.io)
   ([GitHub](https://github.com/paritytech)) - Ethereum Client.
 * [Solana](https://solana.com) - High performance blockchain, rebuilt for scale.
